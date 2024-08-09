@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitanya-pc
-- 👀 I’m interested in Data Science, Data analytics, Growth analytics
+- 👀 I’m interested in Data Science, Data analytics, Growth analytics, Machine Learning 
 - 🌱 I’m currently learning, ML,AI,NLP
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me: chaitanya.better@gmail.com
